@@ -7,10 +7,11 @@ A bash wrapper script for Pilon.
 ## 1. Prerequisites
 
 This script depends on:
-	Java runtime 1.7 or later
-	seqtk		(https://github.com/lh3/seqtk)
-	Bowtie2		ver. >2.1	(http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
-	Samtools	ver. >1.4	(https://github.com/samtools/samtools)
+
+	Java runtime 	1.7 or later  
+	seqtk		(https://github.com/lh3/seqtk)  
+	Bowtie2		ver. >2.1	(http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
+	Samtools	ver. >1.4	(https://github.com/samtools/samtools)  
 
 ## 2. Installation
 
